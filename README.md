@@ -1,5 +1,8 @@
 
 
+DEPLOYED LINK : https://navya-nandika.github.io/MLP-Visualiser/
+
+
 **MLP Visualizer** is a browser-based interactive tool designed to help users understand and experiment with **Multi-Layer Perceptron (MLP)** models. The project allows users to upload custom datasets, visualize training behavior, and download results for further analysis.
 
 This project is especially useful for students, beginners in machine learning, and anyone interested in exploring how neural networks behave without installing complex software environments.
